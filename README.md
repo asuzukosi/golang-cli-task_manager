@@ -1,0 +1,1 @@
+This is a task manager cli application written in golang, using cobra as the cli tool in the application layer and boltdb as the database in the backend persistence layer, the core business logic layer is written purely in golang.
